@@ -32,7 +32,7 @@
 
             </form>
 
-            <script>
+            <script> 
                 // Função de autenticação do google
                 function handleCredentialResponse(response) {
                     console.log("Encoded JWT ID token: " + response.credential);
